@@ -2,7 +2,9 @@
 
 This project is a simple Tic Tac Toe game built with React and styled using Tailwind CSS. The app is scaffolded with Vite and provides a two-player local gameplay experience on a 3×3 grid. It detects wins, draws, and includes a reset/play-again popup.
 
----
+## Live Demo
+
+[Live Demo Link](https://sz-tic-tac-toe-game.vercel.app/)
 
 ## Features
 
