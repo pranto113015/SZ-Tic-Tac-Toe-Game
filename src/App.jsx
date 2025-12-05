@@ -72,7 +72,9 @@ function App() {
           {board.map((square, index) => (
             <button
               key={index}
-              className={`h32 w-full`}
+              className={`h-32 w-full bg-gray-800 rounded-md text-6xl font-light transition-colors duration-200 hover:bg-gray-700 ${
+                square === "X" ? "text-white-400" : "text-slate-400"
+              }`}
               onClick={() => handlesquareClick(index)}
             >
               {square}
