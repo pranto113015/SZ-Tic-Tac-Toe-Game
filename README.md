@@ -4,7 +4,7 @@ This project is a simple Tic Tac Toe game built with React and styled using Tail
 
 ## Live Demo
 
-[Live Demo Link](https://sz-tic-tac-toe-game.vercel.app/)
+[Live Demo](https://sz-tic-tac-toe-game.vercel.app/)
 
 ## Features
 
